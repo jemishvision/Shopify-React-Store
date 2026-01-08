@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@shopify/hydrogen-react": "^2025.7.0"
+  }
+}
